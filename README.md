@@ -1,4 +1,4 @@
-## 📈 Data Logger with Anomaly Detection
+## 📈 Edge-Based Predictive Maintenance System
 This project implements a **real-time embedded predictive maintenance system** on **STM32 microcontrollers** using **Zephyr RTOS**.  
 
 It simulates industrial machines equipped with multiple sensors, logs sensor data in real time, and performs **on-device anomaly detection** to identify abnormal operating conditions. The system is designed to be **modular, scalable, and suitable for resource-constrained embedded environments**.
